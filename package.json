@@ -1,0 +1,26 @@
+{
+  "name": "travis",
+  "version": "1.0.0",
+  "description": "reading about travis ci",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "mocha": "^10.0.0"
+  },
+  "directories": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/semy-tuyi/travisci.git"
+  },
+  "keywords": [],
+  "bugs": {
+    "url": "https://github.com/semy-tuyi/travisci/issues"
+  },
+  "homepage": "https://github.com/semy-tuyi/travisci#readme"
+}
